@@ -1,7 +1,9 @@
 # ICO
 ![ICO1](https://user-images.githubusercontent.com/121422342/210549561-4d995bd3-8a51-4660-96bb-01cea6c2b33b.PNG)
 
-To setup a Hardhat project, open up a terminal and execute these commands:
+To setup a Hardhat ![ICO3](https://user-images.githubusercontent.com/121422342/210553162-7c5217cd-ae0d-4fd6-bdf1-d692d3ec1dd5.PNG)
+
+project, open up a terminal and execute these commands:
 ```
 mkdir ICO
 cd ICO
